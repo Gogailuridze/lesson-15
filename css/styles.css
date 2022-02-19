@@ -1,0 +1,83 @@
+header {
+    width: 100%;
+    background: url(../images/Group51.png);
+    padding-bottom: 85px;
+}
+.logo {
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+}
+.nav-a {
+    color: white;
+    font-weight: 600;
+    font-size: 12px;
+}
+.active-color {
+    color: #5863F8;
+}
+.navbar2 {
+    margin-top: 30px;
+}
+.navbar2 h4 {
+    color: white;
+    font-size: 42px;
+    font-weight: 800;
+}
+.navbar2 a{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    font-weight: 600;
+    padding: 0px 10px;
+}
+.first-a {
+    border-right: 1px solid white;
+}
+.fs-6 {
+    color: #5863F8;
+    margin-top: 90px;
+}
+.text {
+    max-width: 70%;
+}
+.d-flex img {
+    margin-right: 15px;
+}
+.d-flex {
+    margin-top: 50px;
+}
+.arrow {
+    background-color: #5863F8;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+.arrow a{
+    padding: 0 20px;
+}
+.bg {
+    background-color: #F8F8F8;
+}
+.inputs {
+    background-color: #F8F8F8;
+    margin-top: 70px;
+    padding: 50px 0;
+}
+.btn {
+    width: 100%;
+}
+.button {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.footer{
+    padding: 70px 0 35px;
+}
